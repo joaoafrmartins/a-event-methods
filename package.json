@@ -1,0 +1,29 @@
+{
+  "name": "a-event-methods",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": "",
+    "a-event-format-fn": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "description": "A Event Methods",
+  "keywords": [
+    "a",
+    "event",
+    "methods"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-event-methods",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-event-methods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-event-methods/issues"
+  }
+}
